@@ -1,0 +1,19 @@
+# Site settings
+title: Matthew Demoy
+description:
+author: Matthew Demoy
+email:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://matthewdemoy.com" # the base hostname & protocol for your site
+twitter_username: matthewdemoy
+github_username: matthewdemoy
+plugins:
+  - jekyll-feed
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']

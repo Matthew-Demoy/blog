@@ -1,0 +1,129 @@
+/* ==========================================================================
+   Article
+   ========================================================================== */
+
+.c-article {
+    margin-bottom: 6rem;
+    padding: 2rem 0;
+}
+
+.c-article__header {
+    margin-bottom: 5rem; // 50px
+    @media screen and (min-width: $bp__sm) {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap;
+        -webkit-box-pack: justify;
+        -webkit-justify-content: space-between;
+            -ms-flex-pack: justify;
+                justify-content: space-between;
+        -webkit-box-align: baseline;
+        -webkit-align-items: baseline;
+            -ms-flex-align: baseline;
+                align-items: baseline;
+    }
+}
+
+.c-article__title {
+    margin-bottom: 1rem;
+    @include fs--heading-1;
+    color: $c-base__1;
+    font-weight: 600;
+    
+    a {
+        color: inherit;
+        text-decoration: none;
+        transition: color 0.2s ease;
+        
+        &:hover {
+            color: $c-accent__blue;
+        }
+    }
+}
+
+.c-article__time {
+    @include fs--meta;
+    color: $c-base__01;
+    margin-bottom: 1.5rem;
+    display: block;
+}
+
+.c-article__content {
+    @include fs--body;
+    color: $c-base__1;
+    
+    p {
+        margin-bottom: 1.5rem;
+        line-height: 1.8;
+    }
+    
+    a {
+        color: $c-accent__blue;
+        text-decoration: none;
+        transition: color 0.2s ease;
+        
+        &:hover {
+            color: darken($c-accent__blue, 10%);
+        }
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        color: $c-base__1;
+        margin: 2rem 0 1rem;
+        font-weight: 600;
+        line-height: 1.4;
+    }
+    
+    code {
+        background-color: $c-base__2;
+        padding: 0.2rem 0.4rem;
+        border-radius: 4px;
+        font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+        color: $c-base__1;
+    }
+    
+    pre {
+        background-color: $c-base__2;
+        padding: 1rem;
+        border-radius: 8px;
+        overflow-x: auto;
+        margin: 1.5rem 0;
+        
+        code {
+            background-color: transparent;
+            padding: 0;
+        }
+    }
+    
+    blockquote {
+        border-left: 4px solid $c-accent__blue;
+        margin: 1.5rem 0;
+        padding: 0.5rem 0 0.5rem 1.5rem;
+        color: $c-base__01;
+        background-color: $c-base__03;
+    }
+    
+    img {
+        max-width: 100%;
+        height: auto;
+        margin: 1.5rem 0;
+    }
+    
+    ul, ol {
+        margin: 1.5rem 0;
+        padding-left: 2rem;
+        
+        li {
+            margin-bottom: 0.5rem;
+            color: $c-base__1;
+        }
+    }
+}
+
+.c-article__footer {
+
+}
