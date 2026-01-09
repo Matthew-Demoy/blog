@@ -4,7 +4,7 @@ description:
 author: Matthew Demoy
 email:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://matthewdemoy.com" # the base hostname & protocol for your site
+url: "https://matthewdemoy.com" # the base hostname & protocol for your site
 twitter_username: matthewdemoy
 github_username: matthewdemoy
 plugins:
