@@ -2,11 +2,9 @@
 layout: post
 title:  "How I would learn a language from scratch"
 date:   2026-01-09 00:00:00 -0500
-categories: Language Learning
+categories: Learning
 published: true
 ---
-
-# How I would learn a language from scratch
 
 Phase 1 - Super beginner
 

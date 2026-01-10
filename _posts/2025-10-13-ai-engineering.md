@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Summarizing an AI Engineering Video every day until I have a AI Engineering Job"
-date:   2025-08-02 00:00:00 -0500
-categories: Unsolicited Career Advice
+date:   2025-09-02 00:00:00 -0500
+categories: Career
 published: true
 ---
 
