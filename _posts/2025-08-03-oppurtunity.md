@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Making your own oppurtunity"
+date:   2025-08-02 00:00:00 -0500
+categories: Career
+published: true
+---
+
+As I reflect on my career thus far I am reminded of all of the times someone has given me oppurtunities for reasons other than merit. Charity, or they simply trusted my word. 
+
+To date it is the following:
+
+- 2018 - Sophmore Internship at Cayan - Close Family Connection/Nepotism
+- 2020 - Interview at Codametrix - Charitable circumstances for internal development of a junior employee(Not common in todays industry)
+- 2022 - An anonymous user named "TonySprocket" introducing me to StarkNet ecosystem to get my first paid project(Very lucrative pay)
+- 2024 - A new manager at CodaMetrix rehiring me while his own reputation was still in its infancy at the company
+
+In contrast to the above moments wedged between these moments of charity, were acts I took to stack these oppurtunities from one to another.
+
+In 2019 after my summer internship at Cayan I learned that I did not know how to write software products. I could write "code" but combining snippets of code with other tools to create a usable product was still out of my ability. Thus in 2020 I took the concerted effort to learn to build applications. Mobile being the hot thing at the time I took [CS50s mobile app course](https://www.youtube.com/watch?v=_P7wHN_kOv4&list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR). This lead to me working part time to build a mobile app for a professor at my school. This app was the main portfolio piece that lead to me getting the job at Codametrix.
+
+
+A similar thing occured in 2022 when I began writing code in Solidity. In chat rooms for learning and sharing things built I met someone working in a budding ecosystem for a new blockchains smart contract language Cairo. That person TonySprocket needed help creating a UI for his Defi app and also wanted to make a sniper for an NFT drop. I worked with him to ship both of these. This relationship as a trusted builder lead to my introduction to the StarkNet ecosystem lead who gave me my contract work to write cryptography libraries in cairo. Getting embedded in the StarkNet ecosystem and networking with another builder gave me the reputation possible to become Topology's first full time engineer. 
+
+I highlight these two things to say is sometimes you need to make your own luck. Especially when you feel stuck with your current growth or state. My advice is to pick up low hanging fruit and punch it. For me that's first formulating and working on the things that will be the most presentable and growth at CodaMetrix. This will either give me the reputation to take the next step or 
+
+The only person you should be jealous of is yourself but a year wiser.
+
+[How to Create Luck](https://www.swyx.io/create-luck)
