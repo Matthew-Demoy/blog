@@ -14,7 +14,7 @@ title: Home
         <li class="c-archives__item">
             <h3>
                 <span>{{post.categories}}</span>
-                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h3>
             <p class="date">{{ post.date | date: "%b %-d, %Y" }}</p>
         </li>
