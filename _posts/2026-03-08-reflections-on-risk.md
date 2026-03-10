@@ -10,7 +10,7 @@ Lately two influencers, investor/founder Chamath Palihapitiya and actor/author M
 
 As someone that took bets in my youth, one investing time into pioneering youtube content in the dance music scene and another leaving a secure software engineering job to join a blockchain technology startup. Not only have I experienced the risk Chamath and Matthew speak of but I have also witnessed a plethora of people go through their own trials with risk in the crypto startup scene and from living in Cambridge where many take risk by taking on deep research either in the private sector or academia.
 
-The risks I took were based partially on my own dreams and aspirations. I wanted dance music content to be on par with other genres. Giving the scene legitimacy in online discussions and furthering that into the main stream. I wanted to believe blockchain technology would disrupt the existing centralized paradigms of todays web 2.0 and financial systems.
+The risks I took were based on my own dreams and aspirations. I wanted dance music content to be on par with other genres. Giving the scene legitimacy in online discussions and furthering that into the main stream. I wanted to believe blockchain technology would disrupt the existing centralized paradigms of todays web 2.0 and financial systems.
 
 Before diving in to my reflections on risk I would like to take a closer look on where both Chamath and Matthew are coming from in order to contrast the risk they are likely speaking of vs what I have experienced personally
 
