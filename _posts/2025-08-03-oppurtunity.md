@@ -22,7 +22,7 @@ In 2019 after my summer internship at Cayan I learned that I did not know how to
 
 A similar thing occured in 2022 when I began writing code in Solidity. In chat rooms for learning and sharing things built I met someone working in a budding ecosystem for a new blockchains smart contract language Cairo. That person TonySprocket needed help creating a UI for his Defi app and also wanted to make a sniper for an NFT drop. I worked with him to ship both of these. This relationship as a trusted builder lead to my introduction to the StarkNet ecosystem lead who gave me my contract work to write cryptography libraries in cairo. Getting embedded in the StarkNet ecosystem and networking with another builder gave me the reputation possible to become Topology's first full time engineer. 
 
-I highlight these two things to say is sometimes you need to make your own luck. Especially when you feel stuck with your current growth or state. My advice is to pick up low hanging fruit and punch it. For me that's first formulating and working on the things that will be the most presentable and growth at CodaMetrix. This will either give me the reputation to take the next step or 
+I highlight these two things to say is sometimes you need to make your own luck. Especially when you feel stuck with your current growth or state. My advice is to pick up low hanging fruit and punch it.
 
 The only person you should be jealous of is yourself but a year wiser.
 
