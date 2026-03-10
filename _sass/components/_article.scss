@@ -113,6 +113,21 @@
         margin: 1.5rem 0;
     }
     
+    figure {
+        margin: 1.5rem 0;
+        
+        img {
+            margin-bottom: 0.5rem;
+        }
+        
+        figcaption {
+            font-size: 0.9rem;
+            color: $c-base__01;
+            line-height: 1.5;
+            font-style: italic;
+        }
+    }
+    
     ul, ol {
         margin: 1.5rem 0;
         padding-left: 2.5rem;
