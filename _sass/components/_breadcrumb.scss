@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Breadcrumb
+   ========================================================================== */
+
+.c-breadcrumb {
+    margin-bottom: 1.5rem;
+    padding-top: 0.5rem;
+}
+
+.c-breadcrumb__link {
+    @include fs--meta;
+    color: $c-base__01;
+    text-decoration: none;
+    transition: color 0.2s ease;
+
+    &:hover {
+        color: $c-accent__blue;
+    }
+}

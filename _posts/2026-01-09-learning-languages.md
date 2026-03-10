@@ -30,8 +30,10 @@ Phase 3 - Upper Beginner
 
 Phase 4 - Intermediate
 
-1. Talk more, Listen more, Study more
+1. Talk more, Listen more, Study more. 
+
+2. Focus on your weak points. You should already know the knowledge of a weak point but we need to drill to the point things are automatic/native. Personally I had to drill articles, prepositions, word order in sentences, "Concordance", and connectors.
 
 Phase 5 - Advanced
 
-I’ll let you guys know once I get there
+-- I’ll let you know once I get there
