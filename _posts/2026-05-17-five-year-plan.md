@@ -10,7 +10,7 @@ published: true
 
 It is a question I have been receiving quite a bit lately. I know people are sincerely asking but I don't believe they want a sincere answer. What is expected is a well understood response regarding career goals, family planning, or possibly a pivot.
 
-What I find hard to articulate is these responses are things they are not a life. When one sees oneself how are they viewing themselves in just a singular dimension or checkmark. I understand some logical reasoning behind this. Life has trade-offs and the conditions of economics, health, etc do not permit everyone to overcome the trade-offs.
+What I find hard to articulate is that these responses describe things, not a life. When one sees oneself how are they viewing themselves in just a singular dimension or checkmark. I understand some logical reasoning behind this. Life has trade-offs and the conditions of economics, health, etc do not permit everyone to overcome the trade-offs.
 
 However why not have an answer to the five year plan topic with something more synergistic and singular to ones life?
 
