@@ -2,6 +2,8 @@
 layout: post
 title: "Where do you see yourself in five years?"
 date: 2026-05-17
+categories: Essay
+published: true
 ---
 
 "Where do you see yourself in five years?"

@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World and how to think about it"
 date:   2025-05-29 00:00:00 -0500
-categories: Thought
+categories: Essay
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Reflections on Risk"
 date:   2026-03-08 00:00:00 -0500
-categories: Risk
+categories: Essay
 published: true
 ---
 
